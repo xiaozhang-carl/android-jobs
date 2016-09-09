@@ -15,7 +15,7 @@
 
 ####职位要求 
 1 .计算机或相关专业
-2. 
+2 .热爱编程
 
 ####联系方式
 [xiaozhang_carl@163.com](mailto:trinea.cn+job@gmail.com)
